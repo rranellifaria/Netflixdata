@@ -25,8 +25,8 @@ Link acesso : https://netflixdata-testesoutag.streamlit.app/
 
 ## 1. Criação do Banco de Dados
 
-O banco de dados foi criado utilizando o **Aiven**, um serviço de banco de dados gerenciado na nuvem.  
-A escolha foi por
+O banco de dados foi criado utilizando o **Aiven**, um serviço de banco de postgres na nuvem.  
+escolha foi por
 - Facilidade de criação do bancos   
 
 <img width="1563" height="172" alt="image" src="https://github.com/user-attachments/assets/6f8a0e60-bc89-4796-a41a-f7c8ba58b032" />
