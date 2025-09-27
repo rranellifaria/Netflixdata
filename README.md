@@ -105,6 +105,9 @@ O arquivo `dash.py`, que cria um dashboard
 link acesso: https://netflixdata-testesoutag.streamlit.app/
 
 
+## 9. Análise e Insights
+
+o arquivo Análise e Insights.pdf contem algumas analises sobre os dados.
 
 
 
