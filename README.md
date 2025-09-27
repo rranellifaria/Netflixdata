@@ -1,6 +1,8 @@
 # Netflix Data Pipeline & Dashboard  
 
-Projeto de análise de dados da Netflix em Streamlit.  
+Projeto de análise de dados da Netflix em Streamlit. 
+
+Link acesso : https://netflixdata-testesoutag.streamlit.app/
 
 ---
 
@@ -99,6 +101,8 @@ O arquivo `queries.py`, que tem todas as queries SQL utilizadas nas análises e 
 ## 8. Dashboard 
 
 O arquivo `dash.py`, que cria um dashboard
+
+link acesso: https://netflixdata-testesoutag.streamlit.app/
 
 
 
